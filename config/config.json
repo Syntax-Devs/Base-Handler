@@ -1,0 +1,19 @@
+{
+    "Bot-Info": {
+        "token": "",
+        "prefix": "",
+        "owner": "",
+        "mainguild": "",
+        "Status": {
+            "status1": "",
+            "status2": "",
+            "status3": "",
+            "statustype": ""
+        }  
+    },
+    "Colors": {
+        "maincolor": "",
+        "success": "#159f15",
+        "failure": "#de1414"
+    }
+}
